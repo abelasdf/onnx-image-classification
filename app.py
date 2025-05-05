@@ -82,3 +82,4 @@ def analyze():
 
     # Return the result as JSON
     return jsonify(result_list)    
+
